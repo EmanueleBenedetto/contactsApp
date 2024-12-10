@@ -12,7 +12,7 @@ A responsive "Contacts" application built with React. It fetches and displays a 
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/your-username/contacts-app.git
+    git clone https://github.com/EmanueleBenedetto/contactsApp.git
     cd contacts-app
     ```
 
